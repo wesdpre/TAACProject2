@@ -13,4 +13,3 @@ The goal of this project is to explore the insights provided by different explai
 ### Task 1:  Dataset and Learning Task
 
 The chosen a tabular data set is DS1 [Real Estate Listings in Portugal](https://www.kaggle.com/datasets/luvathoms/portugal-real-estate-2024)
-
