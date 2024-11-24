@@ -1,3 +1,7 @@
+setuptools
+
 kagglehub
 pandas
 
+ydata_profiling
+ipywidgets
